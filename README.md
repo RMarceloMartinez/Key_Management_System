@@ -1,5 +1,5 @@
 ﻿# Key_Management_System
-his C++ program is designed to manage employee key assignments. It allows the user to perform various operations such as adding keys, returning keys, replacing keys, and viewing key statuses for employees. It reads and writes employee data from a file and updates the status accordingly.
+This C++ program is designed to manage employee key assignments. It allows the user to perform various operations such as adding keys, returning keys, replacing keys, and viewing key statuses for employees. It reads and writes employee data from a file and updates the status accordingly.
 
 Features:
 View All Employees and Keys: Displays a list of all employees and the keys they possess.
