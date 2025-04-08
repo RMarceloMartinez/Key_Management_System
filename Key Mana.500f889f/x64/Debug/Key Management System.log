@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Projects\Key Management System\Key Management System\Source.cpp(61,13): error C3861: 'getline': identifier not found
+C:\Projects\Key Management System\Key Management System\Source.cpp(107,13): error C3861: 'getline': identifier not found
+C:\Projects\Key Management System\Key Management System\Source.cpp(119,13): error C3861: 'getline': identifier not found
+C:\Projects\Key Management System\Key Management System\Source.cpp(167,9): error C3861: 'getline': identifier not found
